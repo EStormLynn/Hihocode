@@ -21,3 +21,4 @@ Hihocode 经典算法问题
 * 1474 拆字游戏（dfs,记录状态）    [题解](http://www.cnblogs.com/SeekHit/p/6511673.html)     
 
 ##数论     
+* 1372 平方求和（也可bfs）    [题解](http://www.cnblogs.com/SeekHit/p/5939280.html)     
