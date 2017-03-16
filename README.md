@@ -22,3 +22,6 @@ Hihocode 经典算法问题
 
 ##数论     
 * 1372 平方求和（也可bfs）    [题解](http://www.cnblogs.com/SeekHit/p/5939280.html)     
+
+##模拟     
+* 1144 01串（模拟）    [题解](http://www.cnblogs.com/SeekHit/p/6296446.html)     
