@@ -18,7 +18,9 @@ Hihocode 经典算法问题
 
 ##搜索    
 * 1301 岛屿（dfs hash）    [题解](http://www.cnblogs.com/SeekHit/p/5872806.html)     
+* 1304 搜索一·24点    [题解](http://www.cnblogs.com/SeekHit/p/5508827.html)     
 * 1474 拆字游戏（dfs,记录状态）    [题解](http://www.cnblogs.com/SeekHit/p/6511673.html)     
+
 
 ##数论     
 * 1372 平方求和（也可bfs）    [题解](http://www.cnblogs.com/SeekHit/p/5939280.html)     
