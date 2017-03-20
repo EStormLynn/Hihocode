@@ -25,6 +25,7 @@ Hihocode 经典算法问题
 ##数论     
 * 1372 平方求和（也可bfs）    [题解](http://www.cnblogs.com/SeekHit/p/5939280.html)     
 * 1143 骨牌覆盖问题·一（矩阵幂）    [题解](http://www.cnblogs.com/SeekHit/p/5544981.html)     
+* 1143 骨牌覆盖问题·二    [题解](http://www.cnblogs.com/SeekHit/p/5945335.html)     
 
 ##模拟     
 * 1144 01串（模拟）    [题解](http://www.cnblogs.com/SeekHit/p/6296446.html)     
