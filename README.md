@@ -6,7 +6,8 @@ Hihocode 经典算法问题
     
 ## 字符串     
 * 1014 Trie树
- 
+* 1485 hiho字符串AC（滑动窗口）    [题解](http://www.cnblogs.com/SeekHit/p/6623843.html) 恰好包含的最小长度       
+* 1485 LeetCode76滑动窗口      包含子串的最小长度
     
 ## DP    
 * 1037 数字三角形    [题解](http://www.cnblogs.com/SeekHit/p/4904604.html)           
