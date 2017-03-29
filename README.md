@@ -35,3 +35,4 @@ Hihocode 经典算法问题
 ## 模拟     
 * 1144 01串（模拟）    [题解](http://www.cnblogs.com/SeekHit/p/6296446.html)     
 * 1223 不等式     [题解](http://www.cnblogs.com/SeekHit/p/5578719.html)     
+* 1051 补提交卡（贪心）
