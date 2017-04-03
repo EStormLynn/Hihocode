@@ -1,8 +1,6 @@
 ﻿# Hihocode
 [Hihocode](https://hihocoder.com/) 经典算法问题
 
-
-
     
 ## 字符串     
 * 1014 Trie树
