@@ -30,7 +30,7 @@
 * 1143 骨牌覆盖问题·一（矩阵幂）    [题解](http://www.cnblogs.com/SeekHit/p/5544981.html)     
 * 1143 骨牌覆盖问题·二    [题解](http://www.cnblogs.com/SeekHit/p/5945335.html)     
 * 1295 数论二·Eular质数筛法       
-
+* 1297 数论四·扩展欧几里德    [题解](http://www.cnblogs.com/SeekHit/p/5431797.html)     
 ## 模拟     
 * 1144 01串（模拟）    [题解](http://www.cnblogs.com/SeekHit/p/6296446.html)     
 * 1223 不等式     [题解](http://www.cnblogs.com/SeekHit/p/5578719.html)     
