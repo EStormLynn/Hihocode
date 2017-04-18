@@ -36,8 +36,13 @@
 * 1296 数论三·约瑟夫问题    [题解](http://www.cnblogs.com/SeekHit/p/5457509.html)     
 * 1297 数论四·扩展欧几里德    [题解](http://www.cnblogs.com/SeekHit/p/5431797.html)  
 * 1298 数论五·欧拉函数（递推）    [题解](http://www.cnblogs.com/SeekHit/p/5458446.html)     
-* 1303 数论六·模线性方程组 （extend_gcd）[题解](http://www.cnblogs.com/SeekHit/p/5477392.html)     
+* 1303 数论六·模线性方程组 （extend_gcd）[题解](http://www.cnblogs.com/SeekHit/p/5477392.html)      
 * 1493 哥德巴赫猜想      
+
+## 分治    
+#1128 二分·二分查找
+
+
 ## 模拟     
 * 1144 01串（模拟）    [题解](http://www.cnblogs.com/SeekHit/p/6296446.html)     
 * 1223 不等式     [题解](http://www.cnblogs.com/SeekHit/p/5578719.html)     
