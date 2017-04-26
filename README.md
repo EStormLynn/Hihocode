@@ -21,6 +21,7 @@
 ## 图     
 * 1066 无间道之并查集(并查集)    [题解](http://www.cnblogs.com/SeekHit/p/6599787.html)    
 * 1307 穿越禁区（并查集）
+* 1502 最大子矩阵（元素和不超过k）    [题解](http://www.cnblogs.com/SeekHit/p/6763833.html)    
 
 ## 搜索    
 * 1301 岛屿（dfs hash）    [题解](http://www.cnblogs.com/SeekHit/p/5872806.html)     
