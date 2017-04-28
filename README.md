@@ -13,6 +13,7 @@
 * 1037 数字三角形    [题解](http://www.cnblogs.com/SeekHit/p/4904604.html)           
 * 1038 01背包    [题解](http://www.cnblogs.com/SeekHit/p/6613007.html)   
 * 1043 完全背包    [题解](http://www.cnblogs.com/SeekHit/p/6636684.html)   
+* 1318 非法二进制数（数位dp）
 * 1469 福字    [题解](http://www.cnblogs.com/SeekHit/p/6486299.html)    
 
 ## 树     
