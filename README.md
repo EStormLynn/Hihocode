@@ -6,6 +6,7 @@
 * 1014 Trie树
 * 1015 KMP算法
 * 1032 最长回文子串（manacher）    [题解](http://www.cnblogs.com/SeekHit/p/5819480.html)              
+* 1323 回文字符串（dp增删字符）    
 * 1485 hiho字符串AC（滑动窗口）    [题解](http://www.cnblogs.com/SeekHit/p/6623843.html) 恰好包含的最小长度       
 * 1485 LeetCode76滑动窗口      包含子串的最小长度
     
