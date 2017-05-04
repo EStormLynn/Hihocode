@@ -17,6 +17,9 @@
 * 1318 非法二进制数（数位dp）
 * 1469 福字    [题解](http://www.cnblogs.com/SeekHit/p/6486299.html)    
 
+## 计算几何
+* 1040 矩形判断
+
 ## 树     
 * 1062 最近公共祖先·一(LRC)    [题解](http://www.cnblogs.com/SeekHit/p/6527546.html)    
   
