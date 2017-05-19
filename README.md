@@ -56,3 +56,4 @@
 * 1051 补提交卡（贪心）    
 * 1288 Font Size     [题解](http://www.cnblogs.com/SeekHit/p/5509136.html)     
 * 1494 寻找砖墙
+* 1496 寻找最大值（按位与最大值）
