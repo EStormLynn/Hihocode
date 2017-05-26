@@ -55,6 +55,7 @@
 ## 模拟     
 * 1144 01串（模拟）    [题解](http://www.cnblogs.com/SeekHit/p/6296446.html)     
 * 1223 不等式     [题解](http://www.cnblogs.com/SeekHit/p/5578719.html)     
+* 1272 买零食AC     
 * 1051 补提交卡（贪心）    
 * 1288 Font Size     [题解](http://www.cnblogs.com/SeekHit/p/5509136.html)     
 * 1494 寻找砖墙
