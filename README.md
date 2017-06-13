@@ -25,6 +25,7 @@
 ## 树     
 * 1049 后续遍历     
 * 1062 最近公共祖先·一(LRC)    [题解](http://www.cnblogs.com/SeekHit/p/6527546.html)    
+* 1325 平衡树·Treap AC
   
 ## 图     
 * 1066 无间道之并查集(并查集)    [题解](http://www.cnblogs.com/SeekHit/p/6599787.html)    
