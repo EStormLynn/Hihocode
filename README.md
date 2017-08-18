@@ -49,6 +49,7 @@
 * 1298 数论五·欧拉函数（递推）    [题解](http://www.cnblogs.com/SeekHit/p/5458446.html)     
 * 1303 数论六·模线性方程组 （extend_gcd）[题解](http://www.cnblogs.com/SeekHit/p/5477392.html)      
 * 1493 哥德巴赫猜想      
+* 1550 顺序三元组    
 
 ## 分治    
 * 1128 二分·二分查找     
