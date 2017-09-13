@@ -35,7 +35,7 @@
 * 1502 最大子矩阵（元素和不超过k）    [题解](http://www.cnblogs.com/SeekHit/p/6763833.html)    
 
 ## 搜索    
-* 1114 小Hi小Ho的惊天大作战：扫雷（dfs）    
+* 1114 小Hi小Ho的惊天大作战：扫雷一 （dfs）     
 * 1301 岛屿（dfs hash）    [题解](http://www.cnblogs.com/SeekHit/p/5872806.html)     
 * 1304 搜索一·24点    [题解](http://www.cnblogs.com/SeekHit/p/5508827.html)     
 * 1308 搜索二·骑士问题（bfs）    [题解](http://www.cnblogs.com/SeekHit/p/6573314.html)     
