@@ -64,6 +64,7 @@
 * 1148 2月29    
 * 1223 不等式     [题解](http://www.cnblogs.com/SeekHit/p/5578719.html)     
 * 1272 买零食AC        
+* 1283 hiho密码（模拟）       
 * 1288 Font Size     [题解](http://www.cnblogs.com/SeekHit/p/5509136.html)     
 * 1305 区间求差（区间问题）    
 * 1494 寻找砖墙
