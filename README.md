@@ -34,6 +34,7 @@
 * 1066 无间道之并查集(并查集)    [题解](http://www.cnblogs.com/SeekHit/p/6599787.html)    
 * 1307 穿越禁区（并查集）
 * 1502 最大子矩阵（元素和不超过k）    [题解](http://www.cnblogs.com/SeekHit/p/6763833.html)    
+* 1624 最短游览路线（最短路径不带权）    
 
 ## 搜索    
 * 1114 小Hi小Ho的惊天大作战：扫雷一 （dfs）     
