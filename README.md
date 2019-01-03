@@ -1,4 +1,4 @@
-﻿# Hihocode
+# Hihocode
 [Hihocode](https://hihocoder.com/) 经典算法问题
 
     
@@ -13,6 +13,7 @@
 * 1485 LeetCode76滑动窗口      包含子串的最小长度
 * 1566 皇室成员姓名    
 * 1623 有歧义的号码（字符串操作）
+* 1904 都8102年了
     
 ## DP    
 * 1037 数字三角形    [题解](http://www.cnblogs.com/SeekHit/p/4904604.html)           
