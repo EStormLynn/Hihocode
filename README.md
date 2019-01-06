@@ -6,6 +6,7 @@
 * 1014 Trie树
 * 1015 KMP算法
 * 1032 最长回文子串（manacher）    [题解](http://www.cnblogs.com/SeekHit/p/5819480.html)              
+* 1039 字符消除                
 * 1323 回文字符串（dp增删字符）    
 * 1326 有序01字符串AC
 * 1361 Playfair密码表 AC
